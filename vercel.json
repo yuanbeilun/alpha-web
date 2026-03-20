@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "api/chat.js": {
+      "maxDuration": 10
+    }
+  },
+  "env": {
+    "ALIYUN_API_KEY": "@aliyun_api_key",
+    "SUPABASE_URL": "@supabase_url",
+    "SUPABASE_ANON_KEY": "@supabase_anon_key"
+  }
+}
